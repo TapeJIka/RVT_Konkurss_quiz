@@ -1,4 +1,4 @@
-export const quizes = [
+export const quizzes = [
     {
         title: "Grāmatvedības pamati",
         questions: [
