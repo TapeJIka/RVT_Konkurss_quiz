@@ -1,0 +1,333 @@
+{
+    "quizes": [
+        {
+            "title": "Grāmatvedības pamati",
+            "questions": [
+                {
+                    "title": "Kāds ir attaisnojuma dokumentu iegrāmatošanas termiņš, izņemot IK, IU un MUN maksātājus?",
+                    "answers": [
+                        {
+                            "title": "Jāiegrāmato ne vēlāk kā 15 dienu laikā pēc attiecīgā mēneša beigām",
+                            "correct": false
+                        },
+                        {
+                            "title": "Jāiegrāmato ne vēlāk kā 17 dienu laikā pēc attiecīgā mēneša beigām",
+                            "correct": false
+                        },
+                        {
+                            "title": "Jāiegrāmato ne vēlāk kā 20 dienu laikā pēc attiecīgā mēneša beigām",
+                            "correct": true
+                        },
+                        {
+                            "title": "Jāiegrāmato ne vēlāk kā 23 dienu laikā pēc attiecīgā mēneša beigām",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Kurš uzņēmumā nodrošina grāmatvedības kontroles  sistēmas izstrādāšanu, ieviešanu, uzturēšanu un uzlabošanu uzņēmumā?",
+                    "answers": [
+                        {
+                            "title": "Finanšu direktors",
+                            "correct": false
+                        },
+                        {
+                            "title": "Informāciju un komunikāciju tehnoloģiju nodaļas vadītājs",
+                            "correct": false
+                        },
+                        {
+                            "title": "Galvenais grāmatvedis",
+                            "correct": true
+                        },
+                        {
+                            "title": "Uzņēmuma vadītājs",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Kurš  normatīvais akts nosaka grāmatvedības kārtošanas pamatprasības?",
+                    "answers": [
+                        {
+                            "title": "Grāmatvedības likums",
+                            "correct": true
+                        },
+                        {
+                            "title": "Likums \"Par nodokļiem un nodevām\"",
+                            "correct": false
+                        },
+                        {
+                            "title": "“Gada pārskatu un konsolidēto pārskatu likums”",
+                            "correct": false
+                        }
+                    ]
+
+                },
+                {
+                    "title": "Kurš grāmatvedības princips nosaka, ka ar pārskata gadu saistītos ieņēmumus un uzdevumus norāda neatkarīgi no maksājuma vai rēķina saņemšanas datuma?",
+                    "answers": [
+                        {
+                            "title": "Kases princips",
+                            "correct": true
+                        },
+                        {
+                            "title": "Piesardzība sprincips",
+                            "correct": false
+                        },
+                        {
+                            "title": "Uzkrāšanas princips",
+                            "correct": false
+                        },
+                        {
+                            "title": "Bilances princips",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "title": "SIA Gada pārskats kā vienots kopums sastāv no...",
+                    "answers": [
+                        {
+                            "title": "Bilances, Peļņas vai zaudējuma aprēķina, Naudas plūsmas pārskata, Pašu kapitāla izmaiņu pārskata un Vadības ziņojuma",
+                            "correct": true
+                        },
+                        {
+                            "title": "Bilances, Peļņas vai zaudējuma aprēķina, Naudas plūsmas pārskata un Vadības ziņojuma",
+                            "correct": false
+                        },
+                        {
+                            "title": "Bilances, Peļņas vai zaudējuma aprēķina un Vadības ziņojuma",
+                            "correct": false
+                        },
+                        {
+                            "title": "Finanšu pārskata un Vadības ziņojuma",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Dokumentu kontrole",
+            "questions": [
+                {
+                    "title": "Kas ir grāmatvedības organizācijas dokumenti?",
+                    "answers": [
+                        {
+                            "title": "Uzņēmuma vadītāja izdotu dokumentu kopums, kuros noteikta kārtība, kādā uzņēmumā kārto grāmatvedības reģistrus",
+                            "correct": true
+                        },
+                        {
+                            "title": "Dokumentu apgrozības shēmas",
+                            "correct": false
+                        },
+                        {
+                            "title": "Uzņēmuma vadītāja rīkojumi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Uzņēmuma vadītāja un galvenā grāmatveža apstiprināti dokumenti,  kā uzņēmumā kārto grāmatvedības reģistrus",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Cik ilgi ir jāuzglabā uzņēmuma gada pārskati?",
+                    "answers": [
+                        {
+                            "title": "10 gadi",
+                            "correct": false
+                        },
+                        {
+                            "title": "75 gadi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Patstāvīgi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Līdz uzņēmuma likvidācijai (darbības izbeigšanai)",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Kas ir cilvēklasāms formāts?",
+                    "answers": [
+                        {
+                            "title": "Elektronisks datu attēlošanas veids PDF, HTML un citos datu apstādes formātos",
+                            "correct": false
+                        },
+                        {
+                            "title": "Elektronisks datu attēlošanas veids PDF, HTML un citos datu apstādes formātos",
+                            "correct": true
+                        },
+                        {
+                            "title": "Elektronisks datu attēlošanas veids, ko fiziska persona var atvērt izmantojot papildus apstrādi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Elektronisks datu attēlošanas veids, ko fiziska persona var izmantot atveros iekšējos uzņēmuma dokumentus",
+                            "correct": false
+                        }
+                    ]
+
+                },
+                {
+                    "title": "Kādā valodā veic ierakstus grāmatvedības reģistros?",
+                    "answers": [
+                        {
+                            "title": "Ierakstus izdara latviešu valodā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Papildus var lietot arī otru valodu",
+                            "correct": false
+                        },
+                        {
+                            "title": "Grāmatvedības reģistru veidnes var būt citā valodā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Visas augstāk minētās atbildes pareizas",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Kāda informācija nav obligāti iekļaujama preču piegādes dokumentā?",
+                    "answers": [
+                        {
+                            "title": "a)Preču vienības cena",
+                            "correct": true
+                        },
+                        {
+                            "title": "Preču izniegšanas vietas adrese",
+                            "correct": false
+                        },
+                        {
+                            "title": "Preču nosaukums, mērvienība un daudzums",
+                            "correct": false
+                        },
+                        {
+                            "title": "Saimnieciskā darījuma apraksts",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ilgtermiņa ieguldījumu uzskaite",
+            "questions": [
+                {
+                    "title": "Kādā vērtībā bilancē norāda pamatlīdzekli?",
+                    "answers": [
+                        {
+                            "title": "Pamatlīdzekli bilancē norāda iegādes vērtībā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Pamatlīdzekli bilancē norāda iegādes vai izveidošanas pašizmaksā",
+                            "correct": true
+                        },
+                        {
+                            "title": "Pamatlīdzekli bilancē norāda neto vērtībā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Pamatlīdzekli bilancē norāda sākotnējā vērtībā",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Kādas metodes var izmantot pamatlīdzekļu nolietojuma aprēķināšanai?",
+                    "answers": [
+                        {
+                            "title": "Lineāro, degresīvo un pamatlīdzekļa lietošanas intensitātes metodi",
+                            "correct": true
+                        },
+                        {
+                            "title": "Lineāro, vidējo svērto un pamatlīdzekļa lietošanas intensitātes metodi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Lineāro, fifo un vidējo svērto metodi",
+                            "correct": false
+                        },
+                        {
+                            "title": "Lineāro un  degresīvo metodi",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Kas ir pamatlīdzekļu pārvērtēšana?",
+                    "answers": [
+                        {
+                            "title": "",
+                            "correct": false
+                        },
+                        {
+                            "title": "",
+                            "correct": false
+                        },
+                        {
+                            "title": "",
+                            "correct": false
+                        },
+                        {
+                            "title": "",
+                            "correct": true
+                        }
+                    ]
+
+                },
+                {
+                    "title": "",
+                    "answers": [
+                        {
+                            "title": "Ierakstus izdara latviešu valodā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Papildus var lietot arī otru valodu",
+                            "correct": true
+                        },
+                        {
+                            "title": "Grāmatvedības reģistru veidnes var būt citā valodā",
+                            "correct": false
+                        },
+                        {
+                            "title": "Visas augstāk minētās atbildes pareizas",
+                            "correct": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Kāda informācija nav obligāti iekļaujama preču piegādes dokumentā?",
+                    "answers": [
+                        {
+                            "title": "a)Preču vienības cena",
+                            "correct": true
+                        },
+                        {
+                            "title": "Preču izniegšanas vietas adrese",
+                            "correct": false
+                        },
+                        {
+                            "title": "Preču nosaukums, mērvienība un daudzums",
+                            "correct": false
+                        },
+                        {
+                            "title": "Saimnieciskā darījuma apraksts",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
