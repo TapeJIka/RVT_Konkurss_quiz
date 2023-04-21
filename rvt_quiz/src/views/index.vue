@@ -1,38 +1,27 @@
 <template>
-  <div class="d-flex justify-content-center align-items-center" style="width: 100%; margin-top: 8%;">
+  <div class="d-flex flex-column justify-content-center align-items-center" style="width: 100%; margin-top: 250px;">
     <div class="d-flex justify-content-center" style="width: 100%">
       <h1 class="display-6">Pārbaudiet savas zināšanas šadas kategorijās</h1>
     </div>
     <div class="d-flex flex-wrap justify-content-center" style="width: 50%">
       <Card
-          title="Grāmatvedības pamati"
+          v-for="quize in quizes"
+          :key="quize.index"
+          :title="quize.title"
       />
-      <Card
-          title="Dokumentu kontrole"
-      />
-      <Card
-          title="Ilgtermiņa ieguldījumu uzskaite"
-      />
-      <Card
-          title="Krājumu uzskaite"
-      />
-      <Card
-          title="Debitoru uzskaite"
-      />
-
-      <Card
-          title="Naudas līdzekļu uzskaite"
-      />
-      <Card title="Darba samaksas un atbilstošo nodokļu uzskaite" />
     </div>
   </div>
 </template>
 <script>
 import Card from "../components/Card.vue";
+import {quizes} from "~/helper/quizes";
 
 export default {
   components: {
     Card,
+  },
+  mounted() {
+    console.log(quizes)
   }
 };
 </script>

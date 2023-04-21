@@ -267,62 +267,62 @@
                     "title": "Kas ir pamatlīdzekļu pārvērtēšana?",
                     "answers": [
                         {
-                            "title": "",
+                            "title": "Pamatlīdzekļu reformācija",
                             "correct": false
                         },
                         {
-                            "title": "",
+                            "title": "Pamatlīdzekļu norakstīšana",
                             "correct": false
                         },
                         {
-                            "title": "",
+                            "title": "Pamatlīdzekļu kapitālais remonts",
                             "correct": false
                         },
                         {
-                            "title": "",
+                            "title": "Pamatlīdzekļu vērtības izmaiņas",
                             "correct": true
                         }
                     ]
 
                 },
                 {
-                    "title": "",
+                    "title": "Ko uzrāda bilances konta „Pamatlīdzekļu nolietojums” kredītā?",
                     "answers": [
                         {
-                            "title": "Ierakstus izdara latviešu valodā",
-                            "correct": false
-                        },
-                        {
-                            "title": "Papildus var lietot arī otru valodu",
+                            "title": "Pamatlīdzekļu uzkrāto nolietojumu",
                             "correct": true
                         },
                         {
-                            "title": "Grāmatvedības reģistru veidnes var būt citā valodā",
+                            "title": "Norakstīto pamatlīdzekļu vērtību",
                             "correct": false
                         },
                         {
-                            "title": "Visas augstāk minētās atbildes pareizas",
-                            "correct": true
+                            "title": "Pamatlīdzekļu atlikušo vērtību",
+                            "correct": false
+                        },
+                        {
+                            "title": "Pamatlīdzekļu izslēgšanu",
+                            "correct": false
                         }
                     ]
                 },
                 {
-                    "title": "Kāda informācija nav obligāti iekļaujama preču piegādes dokumentā?",
+                    "title": "Kad jāsāk aprēķināt pamatlīdzekļu nolietojumu finanšu grāmatvedības vajadzībām?",
                     "answers": [
                         {
-                            "title": "a)Preču vienības cena",
+                            "title": "To iegādes mēnesī",
+                            "correct": false
+                        },
+                        {
+                            "title": "Pēc to nodošanas ekspluatācijā",
                             "correct": true
                         },
                         {
-                            "title": "Preču izniegšanas vietas adrese",
+                            "title": "Pēc pavadzīmes saņemšanas",
                             "correct": false
                         },
                         {
-                            "title": "Preču nosaukums, mērvienība un daudzums",
-                            "correct": false
-                        },
-                        {
-                            "title": "Saimnieciskā darījuma apraksts",
+                            "title": "No nākamā mēneša 15.datuma",
                             "correct": false
                         }
                     ]
